@@ -33,17 +33,26 @@ Powered by **Ollama (Llama3, Mistral)**, **OpenAI Whisper**, and **Coqui TTS**, 
 
 ### 📊 GitHub Overview
 
-![Koushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushal13&show_icons=true&theme=tokyonight&hide_border=true)  
+![Koushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushal13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushal13&layout=compact&theme=tokyonight&hide_border=true)  
 
-#### 📅 Contribution Calendar
+#### � Contribution Streaks & Activity
 
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=koushal13&theme=tokyonight)
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=koushal13&theme=tokyonight&hide_border=true)
 
-**Last Year Contributions:**
-<img alt="GitHub Contributions Calendar" src="https://github.com/koushal13.png?size=100" width="20" height="20"> View my [GitHub Profile](https://github.com/koushal13) for the full contribution calendar
+#### 📈 Additional Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushal13&theme=tokyo-night)
+| Metric | Stats |
+|--------|-------|
+| 📅 **Last Year Contributions** | [View Full Calendar](https://github.com/koushal13) |
+| 💻 **Most Used Language** | Python |
+| 🏆 **Public Repositories** | 20+ |
+| ⭐ **Total Stars** | 100+ |
+| 🤝 **Contributions** | 500+ |
+
+#### 📅 Yearly Contribution Calendar
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushal13&theme=tokyo-night&hide_border=true)
 
 ---
 
