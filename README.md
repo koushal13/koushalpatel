@@ -35,6 +35,14 @@ Powered by **Ollama (Llama3, Mistral)**, **OpenAI Whisper**, and **Coqui TTS**, 
 
 ![Koushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushal13&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushal13&layout=compact&theme=tokyonight&hide_border=true)  
+
+#### 📅 Contribution Calendar
+
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=koushal13&theme=tokyonight)
+
+**Last Year Contributions:**
+<img alt="GitHub Contributions Calendar" src="https://github.com/koushal13.png?size=100" width="20" height="20"> View my [GitHub Profile](https://github.com/koushal13) for the full contribution calendar
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushal13&theme=tokyo-night)
 
 ---
